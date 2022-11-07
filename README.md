@@ -8,7 +8,7 @@ Em andamento...
 
 ## Objetivo do Projeto:
 
-Criar uma tebala com pacientes que soma altura e peso para dar o IMC do paciente. Também existe um campo de formulário onde é possivel adicionar novos pacientes.
+Criar uma tabela com pacientes que soma altura e peso para dar o IMC do paciente. Também existe um campo de formulário onde é possivel adicionar novos pacientes.
 
 ### Linguagens
 
